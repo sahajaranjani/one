@@ -14,4 +14,4 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   alert('Thank you for your message! We will get back to you soon.');
   this.reset();
 });
-this is my pipeline
+this is my pipelines
